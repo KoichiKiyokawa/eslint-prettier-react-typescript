@@ -1,6 +1,6 @@
 {
   "name": "@KoichiKiyokawa/eslint-config-prettier-react-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": ".eslintrc.js",
   "keywords": [],
@@ -10,7 +10,7 @@
     ".eslintrc.js"
   ],
   "scripts": {
-    "release": "bumpp README.md"
+    "release": "bumpp README.md package.json"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "5.30.6",

@@ -5,17 +5,17 @@
 
 npm
 ```bash
-npm i -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescript#v0.0.1
+npm i -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescript#v0.0.2
 ```
 
 or yarn
 ```bash
-yarn add -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescript#v0.0.1
+yarn add -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescript#v0.0.2
 ```
 
 or pnpm
 ```bash
-pnpm i -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescript#v0.0.1
+pnpm i -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescript#v0.0.2
 ```
 
 ### 2. Create `.eslintrc.yml`
