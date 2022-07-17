@@ -20,7 +20,7 @@ pnpm i -D https://github.com/KoichiKiyokawa/eslint-config-prettier-react-typescr
 
 ### 2. Create `.eslintrc.yml`
 ```yml
-extends: @KoichiKiyokawa/eslint-config-prettier-react-typescript
+extends: "@KoichiKiyokawa/eslint-config-prettier-react-typescript"
 ```
 
 ### 3. Set npm script
